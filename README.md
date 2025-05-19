@@ -1,5 +1,5 @@
 
-# Keyboard Spammer
+# Keyboard Keystroke
 
 A lightweight Python script to simulate fast key presses using `pyautogui`.
 
@@ -39,8 +39,3 @@ python spam_keys.py --duration 1 --keys abcd --start-delay 3 --delay-between 0.0
 ## License
 
 MIT – see [LICENSE](./LICENSE).
-
-```
-
-Let me know if you also want a short project description to use in the GitHub repo.
-```
